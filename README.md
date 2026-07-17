@@ -2,9 +2,14 @@
 
 Click the button below to download the latest Android APK.
 
-[![Download APK](https://img.shields.io/badge/Download-APK%20v0.0.3-brightgreen?style=for-the-badge&logo=android&logoColor=white)](https://github.com/me-chensam/android-apk-download/raw/main/v-0.0.3/app-release.apk)
+[![Download APK](https://img.shields.io/badge/Download-APK%20v0.0.4-brightgreen?style=for-the-badge&logo=android&logoColor=white)](https://github.com/me-chensam/android-apk-download/raw/main/v-0.04/app-release.apk)
 
-Or use this direct link: [Download app-release.apk](https://github.com/me-chensam/android-apk-download/raw/main/v-0.0.3/app-release.apk)
+Or use this direct link: [Download app-release.apk](https://github.com/me-chensam/android-apk-download/raw/main/v-0.04/app-release.apk)
+
+## What's new in v0.0.4
+
+- **Sign in with Google** — log in quickly and securely using your Google account
+- **Register with Google** — create a new account with Google without entering registration details manually
 
 ## What's new in v0.0.3
 
@@ -21,7 +26,8 @@ Or use this direct link: [Download app-release.apk](https://github.com/me-chensa
 
 | Version | File | Notes |
 |---------|------|-------|
-| v0.0.3 (latest) | [app-release.apk](https://github.com/me-chensam/android-apk-download/raw/main/v-0.0.3/app-release.apk) | New UI + React Native CLI |
+| v0.0.4 (latest) | [app-release.apk](https://github.com/me-chensam/android-apk-download/raw/main/v-0.04/app-release.apk) | Login and registration with Google |
+| v0.0.3 | [app-release.apk](https://github.com/me-chensam/android-apk-download/raw/main/v-0.0.3/app-release.apk) | New UI + React Native CLI |
 | v0.0.2 | [saving-tracker-app-release.apk](https://github.com/me-chensam/android-apk-download/raw/main/v-0.0.2/saving-tracker-app-release.apk) | Forgot password + email OTP reset |
 | v0.0.1 | [saving-tracker-app-release.apk](https://github.com/me-chensam/android-apk-download/raw/main/v-0.0.1/saving-tracker-app-release.apk) | Initial release |
 
